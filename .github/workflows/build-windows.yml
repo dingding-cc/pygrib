@@ -14,7 +14,7 @@ jobs:
         os: [windows-latest, macos-latest]
         platform: [x64, x32]
 #  debug on a single os/platform/python version
-#       python-version: [ "3.8"]
+#       python-version: [ "3.7"]
 #       os: [macosx-latest]
 #       platform: [x64]
         exclude:
